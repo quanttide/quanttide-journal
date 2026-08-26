@@ -58,3 +58,39 @@
 [submodule "domains/think"]
 	path = domains/think
 	url = https://github.com/quanttide/quanttide-journal-of-cognitive-engineering.git
+[submodule "domains/asset"]
+	path = domains/asset
+	url = https://github.com/quanttide/quanttide-journal-of-asset-management.git
+[submodule "domains/connect"]
+	path = domains/connect
+	url = https://github.com/quanttide/quanttide-journal-of-communication.git
+[submodule "domains/course"]
+	path = domains/course
+	url = https://github.com/quanttide/quanttide-journal-of-course-development.git
+[submodule "domains/customer"]
+	path = domains/customer
+	url = https://github.com/quanttide/quanttide-journal-of-customer-relations.git
+[submodule "domains/delib"]
+	path = domains/delib
+	url = https://github.com/quanttide/quanttide-journal-of-deliberation-management.git
+[submodule "domains/devops"]
+	path = domains/devops
+	url = https://github.com/quanttide/quanttide-journal-of-devops.git
+[submodule "domains/finance"]
+	path = domains/finance
+	url = https://github.com/quanttide/quanttide-journal-of-finance-management.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-journal-of-human-resources.git
+[submodule "domains/meta"]
+	path = domains/meta
+	url = https://github.com/quanttide/quanttide-journal-of-philosophy.git
+[submodule "domains/org"]
+	path = domains/org
+	url = https://github.com/quanttide/quanttide-journal-of-organization-management.git
+[submodule "domains/pay"]
+	path = domains/pay
+	url = https://github.com/quanttide/quanttide-journal-of-payment-engineering.git
+[submodule "domains/write"]
+	path = domains/write
+	url = https://github.com/quanttide/quanttide-journal-of-narrative-engineering.git

@@ -14,23 +14,35 @@ quanttide-journal/
 ├── domains/             → 领域日志子仓库（git submodule）
 │   ├── agent            → 智能体工程日志（quanttide-journal-of-agent-engineering）
 │   ├── alliance         → 联盟管理日志（quanttide-journal-of-alliance-management）
+│   ├── asset            → 资产管理日志（quanttide-journal-of-asset-management）
 │   ├── auth             → 身份认证日志（quanttide-journal-of-authorization）
 │   ├── business         → 商务拓展日志（quanttide-journal-of-business-development）
 │   ├── code             → 软件工程日志（quanttide-journal-of-software-engineering）
+│   ├── connect          → 沟通管理日志（quanttide-journal-of-communication）
+│   ├── course           → 课程研发日志（quanttide-journal-of-course-development）
 │   ├── crowd            → 众包管理日志（quanttide-journal-of-crowd-sourcing）
+│   ├── customer         → 客户关系日志（quanttide-journal-of-customer-relations）
 │   ├── data             → 数据工程日志（quanttide-journal-of-data-engineering）
+│   ├── delib            → 议事管理日志（quanttide-journal-of-deliberation-management）
 │   ├── design           → 交互设计日志（quanttide-journal-of-interaction-design）
+│   ├── devops           → DevOps 工程日志（quanttide-journal-of-devops）
 │   ├── docs             → 文档工程日志（quanttide-journal-of-document-engineering）
 │   ├── econ             → 经济建模日志（quanttide-journal-of-economic-modeling）
 │   ├── entrep           → 创业管理日志（quanttide-journal-of-entrepreneurship-management）
 │   ├── execute          → 执行管理日志（quanttide-journal-of-execution-management）
+│   ├── finance          → 财务管理日志（quanttide-journal-of-finance-management）
 │   ├── health           → 健康管理日志（quanttide-journal-of-health-management）
+│   ├── human            → 人力资源日志（quanttide-journal-of-human-resources）
 │   ├── knowl            → 知识工程日志（quanttide-journal-of-knowledge-engineering）
 │   ├── media            → 新媒体运营日志（quanttide-journal-of-social-media）
+│   ├── meta             → 元工程日志（quanttide-journal-of-philosophy）
+│   ├── org              → 组织管理日志（quanttide-journal-of-organization-management）
+│   ├── pay              → 支付工程日志（quanttide-journal-of-payment-engineering）
 │   ├── product          → 产品研发日志（quanttide-journal-of-product-development）
 │   ├── security         → 安全工程日志（quanttide-journal-of-security-engineering）
 │   ├── strategy         → 战略管理日志（quanttide-journal-of-strategy-management）
-│   └── think            → 认知工程日志（quanttide-journal-of-cognitive-engineering）
+│   ├── think            → 认知工程日志（quanttide-journal-of-cognitive-engineering）
+│   └── write            → 写作管理日志（quanttide-journal-of-narrative-engineering）
 ├── README.md            → 本文件
 ├── AGENTS.md            → Agent 工作指南
 ├── CHANGELOG.md         → 版本变更记录
