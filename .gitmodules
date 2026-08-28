@@ -63,7 +63,7 @@
 	url = https://github.com/quanttide/quanttide-journal-of-asset-management.git
 [submodule "domains/connect"]
 	path = domains/connect
-	url = https://github.com/quanttide/quanttide-journal-of-communication.git
+	url = https://github.com/quanttide/quanttide-journal-of-communication-management.git
 [submodule "domains/course"]
 	path = domains/course
 	url = https://github.com/quanttide/quanttide-journal-of-course-development.git
