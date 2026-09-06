@@ -9,7 +9,7 @@
 	url = https://github.com/quanttide/quanttide-journal-of-alliance-management.git
 [submodule "domains/auth"]
 	path = domains/auth
-	url = https://github.com/quanttide/quanttide-journal-of-authorization.git
+	url = https://github.com/quanttide/quanttide-journal-of-authorization-engineering.git
 [submodule "domains/business"]
 	path = domains/business
 	url = https://github.com/quanttide/quanttide-journal-of-business-development.git
