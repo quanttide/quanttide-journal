@@ -4,9 +4,6 @@
 [submodule "domains/agent"]
 	path = domains/agent
 	url = https://github.com/quanttide/quanttide-journal-of-agent-engineering.git
-[submodule "domains/alliance"]
-	path = domains/alliance
-	url = https://github.com/quanttide/quanttide-journal-of-alliance-management.git
 [submodule "domains/auth"]
 	path = domains/auth
 	url = https://github.com/quanttide/quanttide-journal-of-authorization-engineering.git
