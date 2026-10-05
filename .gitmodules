@@ -81,7 +81,7 @@
 	url = https://github.com/quanttide/quanttide-journal-of-human-resources.git
 [submodule "domains/meta"]
 	path = domains/meta
-	url = https://github.com/quanttide/quanttide-journal-of-philosophy.git
+	url = https://github.com/quanttide/quanttide-journal-of-meta-engineering.git
 [submodule "domains/org"]
 	path = domains/org
 	url = https://github.com/quanttide/quanttide-journal-of-organization-management.git
