@@ -35,6 +35,7 @@ quanttide-journal/
 │   ├── human            → 人力资源日志（quanttide-journal-of-human-resources）
 │   ├── knowl            → 知识工程日志（quanttide-journal-of-knowledge-engineering）
 │   ├── media            → 新媒体运营日志（quanttide-journal-of-social-media）
+│   ├── market           → 营销管理日志（quanttide-journal-of-market-management）
 │   ├── meta             → 元工程日志（quanttide-journal-of-meta-engineering）
 │   ├── org              → 组织管理日志（quanttide-journal-of-organization-management）
 │   ├── pay              → 支付工程日志（quanttide-journal-of-payment-engineering）

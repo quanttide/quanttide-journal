@@ -10,6 +10,8 @@
 
 ## [Unreleased]
 
+- 注册营销管理日志：`domains/market` → quanttide-journal-of-market-management
+
 ### 新增
 
 - 参考主仓库结构初始化聚合容器：README.md、AGENTS.md、CHANGELOG.md、LICENSE（Apache 2.0）
